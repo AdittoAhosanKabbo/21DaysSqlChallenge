@@ -52,6 +52,17 @@
 | **9** | Date Functions (DATE_ADD, DATEDIFF, EXTRACT, etc.) | [View Solution](https://github.com/AdittoAhosanKabbo/21DaysSqlChallenge/blob/main/DAY%209%3A%20Date%20Functions.sql) |
 ---
 
+### Phase 4: Conditional Logic (CASE, DISTINCT, NULL Handling) (Days 10-12)
+
+| Day | Topic | Solution |
+|:---:|:------|:---------|
+| **10** | CASE Statements | [View Solution](https://github.com/AdittoAhosanKabbo/21DaysSqlChallenge/blob/main/DAY%2010%3A%20CASE%20Statement.sql) |
+
+
+---
+
+
+
 ## Dataset
 
 <div style="background: #e7f3ff; padding: 15px; border-radius: 6px; margin: 15px 0; border-left: 4px solid #0366d6;">
