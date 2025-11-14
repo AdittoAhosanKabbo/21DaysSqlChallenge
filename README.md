@@ -57,6 +57,8 @@
 | Day | Topic | Solution |
 |:---:|:------|:---------|
 | **10** | CASE Statements | [View Solution](https://github.com/AdittoAhosanKabbo/21DaysSqlChallenge/blob/main/DAY%2010%3A%20CASE%20Statement.sql) |
+| **11** | Understanding DISTINCT and handling duplicates | [View Solution](https://github.com/AdittoAhosanKabbo/21DaysSqlChallenge/blob/main/DAY%2011%3A%20DISTINCT%20and%20handling%20duplicates.sql) |
+| **12** | NULL Values and IS NULL/IS NOT NULL | [View Solution](https://github.com/AdittoAhosanKabbo/21DaysSqlChallenge/blob/main/DAY%2012%3A%20NULL%20Values%20and%20IS%20NULL.sql) |
 
 
 ---
